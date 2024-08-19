@@ -20,8 +20,9 @@ To start the development server, run the following command:
 Open http://localhost:3000 in your browser to view the project.
 
 ## Tech Stack
-- React
+- TypeScript
 - TailwindCSS
+- NextJS
 
 ## Deployment
 
